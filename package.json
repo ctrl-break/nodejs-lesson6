@@ -1,0 +1,19 @@
+{
+  "name": "lesson6",
+  "version": "1.0.0",
+  "description": "1) Добавьте в созданное после предыдущего урока приложение простую аутентификацию на основе логина и пароля с функцией \"запомнить меня\", используя middleware для работы с cookie и сессиями.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctrl-break/nodejs-lesson6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctrl-break/nodejs-lesson6/issues"
+  },
+  "homepage": "https://github.com/ctrl-break/nodejs-lesson6#readme"
+}
